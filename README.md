@@ -19,6 +19,8 @@
 
 ## Clases
 
+<a href="https://mouredev.link/warp"><img src="./Images/warp.jpg" style="height: 50%; width:50%;"/></a>
+
 > #### **Descarga [Warp 2](https://mouredev.link/warp):** La terminal y entorno de desarrollo con IA que utilizaremos en durante el curso.
 
 
@@ -40,7 +42,19 @@ Próximamente...
 
 ## Preguntas frecuentes
 
-Próximamente...
+#### ¿Debo tener conocimientos previos?
+
+Mi idea es que el curso sea desde cero y para principiantes. Pensado para una persona que comienza por primera vez a programar, pero también para todas aquellas personas que quieres aprender a trabajar con la terminal y la línea de comandos.
+
+#### ¿Este curso se va a subir a YouTube?
+
+Sí, una vez finalizados, todos los cursos son editados y subidos a [YouTube](https://youtube.com/@mouredev) y a [mouredev pro](https://mouredev.pro) con extras.
+
+Mientras el curso no finaliza, podrás acceder a todas las clases grabadas de los directos sin edición.
+
+#### ¿Existe algún lugar donde consultar dudas?
+
+En el [servidor de Discord](https://discord.gg/mouredev) de la comunidad. Allí puedes consultar dudas y ayudar al resto de miembros. Así nos beneficiamos tod@s.
 
 ## ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Brais Moure.
 ### Freelance fullstack iOS & Android engineer

@@ -12,8 +12,8 @@
 
 ## 🆕 NUEVO: Curso desde cero [En desarrollo]
 
-### 🔴 PRÓXIMA CLASE EN DIRECTO: Miércoles 16 de julio a las 20:00h (España) en [Twitch](https://twitch.tv/mouredev)
-### 🗓️ CONSULTA EL HORARIO POR PAÍS Y CREA UN RECORDATORIO desde [Discord](https://discord.gg/CdawcS69?event=1392842868850429982)
+### 🔴 PRÓXIMA CLASE EN DIRECTO: Miércoles 23 de julio a las 20:00h (España) en [Twitch](https://twitch.tv/mouredev)
+### 🗓️ CONSULTA EL HORARIO POR PAÍS Y CREA UN RECORDATORIO desde [Discord](https://discord.gg/u7dV8jRU?event=1392842868850429982)
 
 *Aquí encontrarás toda la información de las clases grabadas y el material utilizado.*
 
@@ -23,22 +23,18 @@
 
 > #### **Descarga [Warp 2](https://mouredev.link/warp):** La terminal y entorno de desarrollo con IA que utilizaremos en durante el curso.
 
-
-Próximamente...
+* Clase 1 [16/07/2025] - Introducción, configuración y primeros pasos
+	* [Vídeo](https://www.twitch.tv/videos/2514962453)
+	* [Configuración](./Course/00_CONFIGURATION.md)
+	* [Primeros pasos](./Course/01_FIRST_STEPS.md)
 
 ## Enlaces de interés
 
-Próximamente...
-
-## Únete al campus de programación de la comunidad
-
-![https://mouredev.pro](./Images/pro.jpg)
-
-#### Te presento [mouredev pro](https://mouredev.pro), mi proyecto más importante para ayudarte a estudiar programación y desarrollo de software de manera diferente.
-
-> **¿Buscas un extra?** Aquí encontrarás cursos editados por lecciones individuales, para avanzar a tu ritmo y guardar el progreso. También dispondrás de ejercicios y correcciones, test para validar tus conocimientos, examen y certificado público de finalización, soporte, foro de estudiantes, reunionnes grupales, cursos exclusivos y mucho más.
-> 
-> Entra en **[mouredev.pro](https://mouredev.pro)** y utiliza el cupón **"PRO"** con un 10% de descuento en tu primera suscripción.
+* [Sobre Markdown](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+* [Wiki Bash](https://es.wikipedia.org/wiki/Bash)
+* [Git for Windows](https://gitforwindows.org/)
+* [Instalación WSL](https://learn.microsoft.com/es-es/windows/wsl/install)
+* [Descarga Warp 2](https://mouredev.link/warp)
 
 ## Preguntas frecuentes
 
@@ -50,11 +46,21 @@ Mi idea es que el curso sea desde cero y para principiantes. Pensado para una pe
 
 Sí, una vez finalizados, todos los cursos son editados y subidos a [YouTube](https://youtube.com/@mouredev) y a [mouredev pro](https://mouredev.pro) con extras.
 
-Mientras el curso no finaliza, podrás acceder a todas las clases grabadas de los directos sin edición.
+Mientras el curso no finaliza, podrás acceder a todas las clases grabadas de los [directos sin edición](https://www.twitch.tv/mouredev/videos).
 
 #### ¿Existe algún lugar donde consultar dudas?
 
 En el [servidor de Discord](https://discord.gg/mouredev) de la comunidad. Allí puedes consultar dudas y ayudar al resto de miembros. Así nos beneficiamos tod@s.
+
+## Únete al campus de programación de la comunidad
+
+![https://mouredev.pro](./Images/pro.jpg)
+
+#### Te presento [mouredev pro](https://mouredev.pro), mi proyecto más importante para ayudarte a estudiar programación y desarrollo de software de manera diferente.
+
+> **¿Buscas un extra?** Aquí encontrarás cursos editados por lecciones individuales, para avanzar a tu ritmo y guardar el progreso. También dispondrás de ejercicios y correcciones, test para validar tus conocimientos, examen y certificado público de finalización, soporte, foro de estudiantes, reunionnes grupales, cursos exclusivos y mucho más.
+> 
+> Entra en **[mouredev.pro](https://mouredev.pro)** y utiliza el cupón **"PRO"** con un 10% de descuento en tu primera suscripción.
 
 ## ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Brais Moure.
 ### Freelance fullstack iOS & Android engineer

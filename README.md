@@ -25,8 +25,8 @@
 
 * Clase 1 [16/07/2025] - Introducción, configuración y primeros pasos
 	* [Vídeo](https://www.twitch.tv/videos/2514962453)
-	* [Configuración](./Course/00_CONFIGURATION.md)
-	* [Primeros pasos](./Course/01_FIRST_STEPS.md)
+	* [0 - Configuración](./Course/00_CONFIGURATION.md)
+	* [1 - Primeros pasos](./Course/01_FIRST_STEPS.md)
 
 ## Enlaces de interés
 

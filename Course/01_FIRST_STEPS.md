@@ -1,3 +1,5 @@
+![](../Images/header.jpg)
+
 # 1 - PRIMEROS PASOS
 
 [Vídeo Clase 1 [16/07/2025]](https://www.twitch.tv/videos/2514962453)
@@ -94,3 +96,7 @@ man ls
 ```
 
 > Para salir del manual pulsamos la tecla **"q"**.
+
+---
+
+[[◀️ Lección anterior](./00_CONFIGURATION.md)] [[Inicio ](../README.md)]

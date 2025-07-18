@@ -1,3 +1,5 @@
+![](../Images/header.jpg)
+
 # 0 - CONFIGURACIÓN
 
 [Vídeo Clase 1 [16/07/2025]](https://www.twitch.tv/videos/2514962453)
@@ -60,3 +62,8 @@ La terminal y entorno de desarrollo con IA que utilizaremos durante el curso, ya
 
 <a href="https://mouredev.link/warp"><img src="../Images/warp.jpg" style="height: 50%; width:50%;"/></a>
 #### **Descarga [Warp 2](https://mouredev.link/warp)**
+
+---
+
+[[Inicio 🔼](../README.md)] [[Siguiente lección ▶️](./01_FIRST_STEPS.md)]
+

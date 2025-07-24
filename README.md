@@ -12,8 +12,8 @@
 
 ## 🆕 NUEVO: Curso desde cero [En desarrollo]
 
-### 🔴 PRÓXIMA CLASE EN DIRECTO: Miércoles 23 de julio a las 20:00h (España) en [Twitch](https://twitch.tv/mouredev)
-### 🗓️ CONSULTA EL HORARIO POR PAÍS Y CREA UN RECORDATORIO desde [Discord](https://discord.gg/u7dV8jRU?event=1392842868850429982)
+### 🔴 PRÓXIMA CLASE EN DIRECTO: Miércoles 30 de julio a las 20:00h (España) en [Twitch](https://twitch.tv/mouredev)
+### 🗓️ CONSULTA EL HORARIO POR PAÍS Y CREA UN RECORDATORIO desde [Discord](https://discord.gg/YZ2DXZRC?event=1392842868850429982)
 
 *Aquí encontrarás toda la información de las clases grabadas y el material utilizado.*
 
@@ -21,12 +21,19 @@
 
 <a href="https://mouredev.link/warp"><img src="./Images/warp.jpg" style="height: 50%; width:50%;"/></a>
 
-> #### **Descarga [Warp 2](https://mouredev.link/warp):** La terminal y entorno de desarrollo con IA que utilizaremos en durante el curso.
+> #### **Descarga [Warp 2](https://mouredev.link/warp):** La terminal y entorno de desarrollo con IA que utilizaremos en el curso.
 
 * Clase 1 [16/07/2025] - Introducción, configuración y primeros pasos
 	* [Vídeo](https://www.twitch.tv/videos/2514962453)
 	* [0 - Configuración](./Course/00_CONFIGURATION.md)
 	* [1 - Primeros pasos](./Course/01_FIRST_STEPS.md)
+
+* Clase 2 [23/07/2025] - Gestión de archivos y comandos avanzados
+	* [Vídeo](https://www.twitch.tv/videos/2520958017)
+	* [2 - Primeros pasos (Ejercicios)](./Course/02_FIRST_STEPS_EXERCISES.md)
+	* [3 - Gestión de archivos](./Course/03_FILE_MANAGEMENT.md)
+	* [4 - Gestión de archivos (Ejercicios)](./Course/04_FILE_MANAGEMENT_EXERCISES.md)
+	* [5 - Comandos avanzados](./Course/05_ADVANCED_COMMANDS.md)
 
 ## Enlaces de interés
 

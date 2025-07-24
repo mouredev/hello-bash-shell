@@ -99,4 +99,4 @@ man ls
 
 ---
 
-[[◀️ Lección anterior](./00_CONFIGURATION.md)] [[Inicio 🔼](../README.md)]
+[[◀️ Lección anterior](./00_CONFIGURATION.md)] [[Inicio 🔼](../README.md)] [[Siguiente lección ▶️](./02_FIRST_STEPS_EXERCISES.md)]

@@ -5,6 +5,12 @@
 
 ## Curso para aprender a trabajar con Bash (Bourne-again shell), línea de comandos, terminal y scripting desde cero y para principiantes
 
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)](https://www.linux.org)
+[![macOS](https://img.shields.io/badge/macos-black?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)](https://www.apple.com/es/macos)
+[![Windows](https://img.shields.io/badge/windows-black?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)](https://www.microsoft.com/es-es/windows)
+
+> ### Con soporte para Linux, macOS y Windows
+
 ![](./Images/header.jpg)
 
 ### Proyecto realizado durante emisiones en directo desde [Twitch](https://twitch.tv/mouredev)
@@ -12,10 +18,9 @@
 
 ## 🆕 NUEVO: Curso desde cero [En desarrollo]
 
-### 🔴 PRÓXIMA CLASE EN DIRECTO: Miércoles 30 de julio a las 20:00h (España) en [Twitch](https://twitch.tv/mouredev)
-### 🗓️ CONSULTA EL HORARIO POR PAÍS Y CREA UN RECORDATORIO desde [Discord](https://discord.gg/YZ2DXZRC?event=1392842868850429982)
-
-*Aquí encontrarás toda la información de las clases grabadas y el material utilizado.*
+> [!IMPORTANT]
+> 🔴 PRÓXIMA CLASE EN DIRECTO: Miércoles 30 de julio a las 20:00h (España) en [Twitch](https://twitch.tv/mouredev)
+> 🗓️ CONSULTA EL HORARIO POR PAÍS Y CREA UN RECORDATORIO desde [Discord](https://discord.gg/YZ2DXZRC?event=1392842868850429982)
 
 ## Clases
 

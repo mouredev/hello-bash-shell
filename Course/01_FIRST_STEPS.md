@@ -41,7 +41,9 @@ Para cambiar de directorio utilizamos el comando `cd`.
 * `cd .` Hace referencia al directorio actual.
 * `cd ~` Te desplaza directamente a tu directorio personal (home).
 
-Utiliza la **tabulación (TAB)** como ayuda para completar automáticamente comandos o visualizar archivos o directorios sugeridos.
+> [!IMPORTANT]
+> 
+> Utiliza la **tabulación (TAB)** como ayuda para completar automáticamente comandos o visualizar archivos o directorios sugeridos.
 
 ```
 cd TAB
@@ -95,6 +97,8 @@ El comando `man` abre el manual de usuario completo de un comando.
 man ls
 ```
 
+> [!TIP]
+> 
 > Para salir del manual pulsamos la tecla **"q"**.
 
 ---

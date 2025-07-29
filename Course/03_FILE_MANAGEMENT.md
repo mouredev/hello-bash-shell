@@ -49,15 +49,15 @@ ls /
 
 ### Eliminación de archivos o directorios:
 
-
-
 * `rm nombre_archivo` Elimina un archivo. 
 * `rm -r nombre_carpeta` Elimina un directorio y todo su contenido de manera recursiva.
 * `rm -ri nombre_carpeta` Modo de eliminación recursiva con confirmación interactiva.
 
-**⚠️ El comando `rm` No se envía a la papelera. Cuidado con lo que se borra.**
-
-**✋ La opción `f` (force) en `rm -rf` es muy peligrosa ya que no pide confirmación ni muestra errores si el directorio no existe.**
+> [!CAUTION]
+>
+> ⚠️ El comando `rm` No se envía a la papelera. Cuidado con lo que se borra.
+> 
+> ✋ La opción `f` (force) en `rm -rf` es muy peligrosa ya que no pide confirmación ni muestra errores si el directorio no existe.
 
 ## Wildcard (comodines)
 
@@ -76,6 +76,8 @@ Los comodines permiten trabajar con varios archivos de forma rápida. Se pueden 
 * `rm ?.txt` Elimina todos los archivos con un nombre de un único caracter y la extensión *txt*.
 * `rm a????` Elimina todos los archivos de 5 caracteres.
 
+> [!TIP]
+>
 > Puedes realizar combinaciones de todo tipo con comandos y comodines.
 
 ## Listados avanzados
@@ -85,6 +87,8 @@ Los comodines permiten trabajar con varios archivos de forma rápida. Se pueden 
 * `find . -name "nombre"` Encuentra archivos por nombre en el directorio actual.
 	* `find dir -name "*.log"` Encuentra archivos por criterio de búsqueda (todos los *log*, por ejemplo) en el directorio especificado.
 
+> [!NOTE]
+>
 > El comando `tree` no está instalado por defecto. Ten en cuenta cómo hacerlo según tu sistema operativo y el gestor de paquete empleado (por ejemplo *apt* o *homebrew*, entre otros).
 
 ---

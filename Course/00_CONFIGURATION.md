@@ -50,18 +50,19 @@ wsl --install
 
 Ya podrás usar Bash en la terminal.
 
-El directorio raíz de Windows se encuentra en:
-
-```
-/mnt/c
-```
+> [!NOTE]
+> 
+> El directorio raíz de Windows se encuentra en `/mnt/c`
 
 ## Warp
 
 La terminal y entorno de desarrollo con IA que utilizaremos durante el curso, ya que nos ayudará a interactuar con la Shell de una manera más cómoda y avanzada. Recomiendo su instalación (aunque puedas usar otra terminal).
 
 <a href="https://mouredev.link/warp"><img src="../Images/warp.jpg" style="height: 50%; width:50%;"/></a>
-#### **Descarga [Warp 2](https://mouredev.link/warp)**
+
+> [!IMPORTANT]
+> 
+> #### **Descarga [Warp 2](https://mouredev.link/warp)**
 
 ---
 

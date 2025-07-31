@@ -20,9 +20,9 @@
 
 > [!IMPORTANT]
 > 
-> 🔴 PRÓXIMA CLASE EN DIRECTO: Miércoles 30 de julio a las 20:00h (España) en [Twitch](https://twitch.tv/mouredev)
+> 🔴 PRÓXIMA CLASE EN DIRECTO: Miércoles 6 de agosto a las 20:00h (España) en [Twitch](https://twitch.tv/mouredev)
 > 
-> 🗓️ CONSULTA EL HORARIO POR PAÍS Y CREA UN RECORDATORIO desde [Discord](https://discord.gg/YZ2DXZRC?event=1392842868850429982)
+> 🗓️ CONSULTA EL HORARIO POR PAÍS Y CREA UN RECORDATORIO desde [Discord](https://discord.gg/U3KjjfUfUJ?event=1392842868850429982)
 
 ## Clases
 
@@ -42,6 +42,16 @@
 	* [4 - Gestión de archivos (Ejercicios)](./Course/04_FILE_MANAGEMENT_EXERCISES.md)
 	* [5 - Comandos avanzados](./Course/05_ADVANCED_COMMANDS.md)
 
+* Clase 3 [30/07/2025] - Editores básicos, permisos y procesos
+	* [Vídeo](https://www.twitch.tv/videos/2527141423)
+	* [6 - Comandos avanzados (Ejercicios)](./Course/06_ADVANCED_COMMANDS_EXERCISES.md)
+	* [7 - Editores básicos](./Course/07_BASIC_EDITORS.md)
+	* [8 - Editores básicos (Ejercicios)](./Course/08_BASIC_EDITORS_EXERCISES.md)
+	* [9 - Administración del sistema](./Course/09_SYSTEM_ADMIN.md)
+	* [10 - Administración del sistema (Ejercicios)](./Course/10_SYSTEM_ADMIN_EXERCISES.md)
+	* [11 - Procesos y alias](./Course/11_PROCESS.md)
+	* [12 - Procesos y alias (Ejercicios)](./Course/12_PROCESS_EXERCISES.md)
+
 ## Enlaces de interés
 
 * [Sobre Markdown](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
@@ -49,6 +59,10 @@
 * [Git for Windows](https://gitforwindows.org/)
 * [Instalación WSL](https://learn.microsoft.com/es-es/windows/wsl/install)
 * [Descarga Warp 2](https://mouredev.link/warp)
+* [nano](https://www.nano-editor.org)
+* [vim](https://www.vim.org)
+* [Neovim](https://neovim.io)
+* [Emacs](https://www.gnu.org/software/emacs)
 
 ## Preguntas frecuentes
 

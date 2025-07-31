@@ -10,9 +10,9 @@
 * `less` Permite ver archivos largos, paginando su contenido (sales pulsando `q`).
 * `more` Similar a less, pero como menos funcionalidades (por ejemplo, no puedes desplazarte hacia atrás).
 * `head` Muestra las primeras 10 líneas de un archivo por defecto.
-	* `head -n 20` Para especificar el número de líneas líneas.
+	* `head -n 20` Para especificar el número de líneas.
 * `tail` Muestra las últimas 10 líneas de un archivo por defecto.
-	* `tail -n 20` Para especificar el número de líneas líneas.
+	* `tail -n 20` Para especificar el número de líneas.
 	* `tail -f file.log` Muy útil para ver logs en tiempo real mientras crecen.
 
 > [!TIP]
@@ -56,7 +56,7 @@ Ejemplos:
 
 Ejemplo:
 
-* `cat nombre_archivo | grep "texto a bucar" | wc -w` Muestra el contenido de un archivo, busca un texto en ese contenido y realiza el recuento de palabras resultantes de la búsqueda.
+* `cat nombre_archivo | grep "texto a buscar" | wc -w` Muestra el contenido de un archivo, busca un texto en ese contenido y realiza el recuento de palabras resultantes de la búsqueda.
 
 ## Variables de entorno
 
@@ -93,4 +93,4 @@ Para ello debes agregar la línea de la exportación a tu archivo de configuraci
 
 ---
 
-[[◀️ Lección anterior](./04_FILE_MANAGEMENT_EXERCISES.md)] [[Inicio 🔼](../README.md)]
+[[◀️ Lección anterior](./04_FILE_MANAGEMENT_EXERCISES.md)] [[Inicio 🔼](../README.md)] [[Siguiente lección ▶️](./06_ADVANCED_COMMANDS_EXERCISES.md)]

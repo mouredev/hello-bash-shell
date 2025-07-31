@@ -74,7 +74,7 @@ Los comodines permiten trabajar con varios archivos de forma rápida. Se pueden 
 * `ls 03*.txt` Muestra todos los archivos que comienzan por *03* y tienen la extensión *txt*.
 * `ls ?????*` Muestra todos los archivos que tienen 5 o más caracteres.
 * `rm ?.txt` Elimina todos los archivos con un nombre de un único caracter y la extensión *txt*.
-* `rm a????` Elimina todos los archivos de 5 caracteres.
+* `rm a????` Elimina todos los archivos que comiencen por *a* y tengan 5 caracteres.
 
 > [!TIP]
 >
@@ -89,7 +89,7 @@ Los comodines permiten trabajar con varios archivos de forma rápida. Se pueden 
 
 > [!NOTE]
 >
-> El comando `tree` no está instalado por defecto. Ten en cuenta cómo hacerlo según tu sistema operativo y el gestor de paquete empleado (por ejemplo *apt* o *homebrew*, entre otros).
+> El comando `tree` no está instalado por defecto. Ten en cuenta cómo hacerlo según tu sistema operativo y el gestor de paquetes empleado (por ejemplo *apt* o *homebrew*, entre otros).
 
 ---
 

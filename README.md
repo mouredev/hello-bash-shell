@@ -20,9 +20,9 @@
 
 > [!IMPORTANT]
 > 
-> 🔴 PRÓXIMA CLASE EN DIRECTO: Miércoles 6 de agosto a las 20:00h (España) en [Twitch](https://twitch.tv/mouredev)
+> 🔴 PRÓXIMA CLASE EN DIRECTO: Jueves 14 de agosto a las 20:00h (España) en [Twitch](https://twitch.tv/mouredev)
 > 
-> 🗓️ CONSULTA EL HORARIO POR PAÍS Y CREA UN RECORDATORIO desde [Discord](https://discord.gg/U3KjjfUfUJ?event=1392842868850429982)
+> 🗓️ CONSULTA EL HORARIO POR PAÍS Y CREA UN RECORDATORIO desde [Discord](https://discord.gg/GZR5DE4s?event=1392842868850429982)
 
 ## Clases
 
@@ -51,6 +51,20 @@
 	* [10 - Administración del sistema (Ejercicios)](./Course/10_SYSTEM_ADMIN_EXERCISES.md)
 	* [11 - Procesos y alias](./Course/11_PROCESS.md)
 	* [12 - Procesos y alias (Ejercicios)](./Course/12_PROCESS_EXERCISES.md)
+
+* Clase 4 [06/08/2025] - Scripting y lógica
+	* [Vídeo](https://www.twitch.tv/videos/2534287084)
+	* [13 - Scripting](./Course/13_SCRIPTING.md)
+		* [script.sh](./Scripts/script.sh)
+		* [read_script.sh](./Scripts/read_script.sh)
+		* [params_script.sh](./Scripts/params_script.sh)
+	* [14 - Scripting (Ejercicios)](./Course/14_SCRIPTING_EXERCISES.md)
+	* [15 - Lógica](./Course/15_LOGIC.md)
+		* [conditionals_script.sh](./Scripts/conditionals_script.sh)
+		* [loops_script.sh](./Scripts/loops_script.sh)
+		* [functions_script.sh](./Scripts/functions_script.sh)
+		* [errors_script.sh](./Scripts/errors_script.sh)
+	* [16 - Lógica (Ejercicios)](./Course/16_LOGIC_EXERCISES.md)
 
 ## Enlaces de interés
 

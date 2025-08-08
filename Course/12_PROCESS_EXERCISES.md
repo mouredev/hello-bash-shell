@@ -28,4 +28,4 @@
 
 ---
 
-[[◀️ Lección anterior](./11_PROCESS.md)] [[Inicio 🔼](../README.md)]
+[[◀️ Lección anterior](./11_PROCESS.md)] [[Inicio 🔼](../README.md)] [[Siguiente lección ▶️](./13_SCRIPTING.md)]

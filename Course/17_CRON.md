@@ -28,13 +28,23 @@ Cron es un demonio (demon) del sistema que permite ejecutar tareas programadas a
 
 Cada línea de `crontab` representa una tarea programada.
 
+```
 ┌───────── minuto (0-59)  
 │ ┌─────── hora (0-23)  
 │ │ ┌───── día del mes (1-31)  
 │ │ │ ┌─── mes (1-12)  
 │ │ │ │ ┌─ día de la semana (0-6, 0=domingo)  
 │ │ │ │ │  
-`* * * * *  comando_a_ejecutar`
+* * * * *  comando_a_ejecutar
+```
+
+Cada `*` representa estas unidades de tiempo (de izquierda a derecha):
+
+* minuto (0-59) 
+* hora (0-23) 
+* día del mes (1-31) 
+* mes (1-12)  
+* día de la semana (0-6, 0=domingo)  
 
 > [!TIP]
 > 

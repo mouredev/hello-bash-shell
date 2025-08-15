@@ -28,4 +28,4 @@
 
 ---
 
-[[◀️ Lección anterior](./15_LOGIC.md)] [[Inicio 🔼](../README.md)]
+[[◀️ Lección anterior](./15_LOGIC.md)] [[Inicio 🔼](../README.md)] [[Siguiente lección ▶️](./17_CRON.md)]

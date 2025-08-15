@@ -16,13 +16,9 @@
 ### Proyecto realizado durante emisiones en directo desde [Twitch](https://twitch.tv/mouredev)
 > ##### Si consideras útil el curso, apóyalo haciendo "★ Star" en el repositorio. ¡Gracias!
 
-## 🆕 NUEVO: Curso desde cero [En desarrollo]
-
 > [!IMPORTANT]
 > 
-> 🔴 PRÓXIMA CLASE EN DIRECTO: Jueves 14 de agosto a las 20:00h (España) en [Twitch](https://twitch.tv/mouredev)
-> 
-> 🗓️ CONSULTA EL HORARIO POR PAÍS Y CREA UN RECORDATORIO desde [Discord](https://discord.gg/GZR5DE4s?event=1392842868850429982)
+> Curso finalizado. Una vez editado se publicará en [YouTube](https://www.youtube.com/@mouredev) y en [mouredev pro](https://mouredev.pro/) con extras.
 
 ## Clases
 
@@ -66,6 +62,13 @@
 		* [errors_script.sh](./Scripts/errors_script.sh)
 	* [16 - Lógica (Ejercicios)](./Course/16_LOGIC_EXERCISES.md)
 
+* Clase 5 [14/08/2025] - Cron, Warp y próximos pasos
+	* [Vídeo](https://www.twitch.tv/videos/2540505212)
+	* [17 - Cron](./Course/17_CRON.md)
+	* [18 - Cron (Ejercicios)](./Course/18_CRON_EXERCISES.md)
+	* [19 - Warp](./Course/19_WARP.md)
+	* [20 - Próximos pasos](./Course/20_NEXT_STEPS.md)
+
 ## Enlaces de interés
 
 * [Sobre Markdown](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
@@ -77,6 +80,8 @@
 * [vim](https://www.vim.org)
 * [Neovim](https://neovim.io)
 * [Emacs](https://www.gnu.org/software/emacs)
+* [Documentación Warp](https://docs.warp.dev/)
+* [Oh My Zsh](http://ohmyz.sh/)
 
 ## Preguntas frecuentes
 

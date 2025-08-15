@@ -1,4 +1,4 @@
-`![](../Images/header.jpg)
+![](../Images/header.jpg)
 
 # 11 - PROCESOS Y ALIAS
 

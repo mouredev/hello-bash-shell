@@ -1,4 +1,4 @@
-`![](../Images/header.jpg)
+![](../Images/header.jpg)
 
 # 20 - PRÓXIMOS PASOS
 

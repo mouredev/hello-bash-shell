@@ -18,7 +18,7 @@ Cron es un demonio (demon) del sistema que permite ejecutar tareas programadas a
 
 > [!NOTE] 
 >  
-> Cron utiliza tablas llamadas `crontab`. Pueden existir crontab a nivel de usuario y de sitema a nivel global (*/etc/crontab*).
+> Cron utiliza tablas llamadas `crontab`. Pueden existir crontab a nivel de usuario y de sistema a nivel global (*/etc/crontab*).
 
 * `crontab -e`	edita tu tabla de cron
 * `crontab -l`	lista tus tareas programadas
@@ -48,7 +48,7 @@ Cada `*` representa estas unidades de tiempo (de izquierda a derecha):
 
 > [!TIP]
 > 
-> Ejecuta primero de manera la manuel el comando para comprobar que funciona y que tienes los permisos adecuados.
+> Ejecuta primero de manera manual el comando para comprobar que funciona y que tienes los permisos adecuados.
 
 > [! CAUTION]
 > 

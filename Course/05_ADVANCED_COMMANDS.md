@@ -71,7 +71,7 @@ Las variables locales solo viven en la sesión actual.
 
 ### Variable global
 
-Las variables globales más allá de la sesión (en todos los programas lanzados desde esa terminal de la sesión).
+Las variables globales viven más allá de la sesión (en todos los programas lanzados desde esa terminal de la sesión).
 
 **Algunas variables globales ya existentes:**
 

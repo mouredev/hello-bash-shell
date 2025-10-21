@@ -65,7 +65,7 @@ Permite solicitar datos interactivos durante la ejecución.
 
 ```
 #!/bin/bash
-echo "¿Cuál es tu nombre"
+echo "¿Cuál es tu nombre? "
 read name
 echo "Hola, $name"
 read -p "¿Cuál es tu edad? " age
@@ -88,7 +88,7 @@ Los scripts pueden recibir argumentos desde la línea de comandos.
 
 ```
 #!/bin/bash
-echo "El nombre del escript es: $0"
+echo "El nombre del script es: $0"
 echo "El primer parámetro es: $1"
 echo "El segundo parámetro es: $2"
 echo "Número de parámetros: $#"

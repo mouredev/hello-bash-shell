@@ -158,7 +158,7 @@ fi
 * `$num -eq 0` → comprueba que la variable *num* sea *igual a 10*.
 * `case $option in` → inspecciona el valor de *option* para asignar el caso de ejecución correcto en base a su valor.
 * `-n $name` → comprueba que la cadena asociada a *name* no esté *vacía*.
-* `[ $num -ge 18 ] && [ -n $name ]` → comrpueba que *num* sea *mayor o igual que 18* y que *name* no esté *vacío*.
+* `[ $num -ge 18 ] && [ -n $name ]` → comprueba que *num* sea *mayor o igual que 18* y que *name* no esté *vacío*.
 * `-e "./script.sh"` → comprueba que el *script existe*.
 
 > [!NOTE] 
@@ -169,7 +169,7 @@ fi
 
 ### for
 
-Recorre un listado de varlores.
+Recorre un listado de valores.
 
 ```
 for i in 1 2 3 4 5

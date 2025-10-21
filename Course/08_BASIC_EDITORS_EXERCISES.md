@@ -8,7 +8,7 @@
 
 ### nano
 
-1. Crea conun archivo llamado nota.txt y escribe tres líneas de texto.
+1. Crea un archivo llamado nota.txt y escribe tres líneas de texto.
 
 1. Abre nota.txt, añade una línea al final y guarda los cambios.
 
@@ -16,7 +16,7 @@
 
 1. Busca una palabra específica en un archivo existente.
 
-1. Corta una línea con y pégala en otra parte.
+1. Corta una línea y pégala en otra parte.
 
 ### vim
 

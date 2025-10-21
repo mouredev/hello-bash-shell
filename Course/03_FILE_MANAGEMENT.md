@@ -26,6 +26,10 @@ ls /
 
 ## Manipulación
 
+### Creación de un archivo:
+
+* `touch nombre_archivo` Crea un nuevo archivo en el directorio actual.
+
 ### Creación de un directorio:
 
 * `mkdir nombre_carpeta` Crea un nuevo directorio en el directorio actual.

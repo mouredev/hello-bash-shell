@@ -53,7 +53,7 @@ De izquierda a derecha:
 
 > [!WARNING]  
 > 
-> La ausencia de un permiso (permimso no otorgado) se representa con `-`.
+> La ausencia de un permiso (permiso no otorgado) se representa con `-`.
 > 
 > Ejemplos: `r--` indicaría que sólo tiene permisos de lectura, en cambio, `r-x` indicaría que tiene permisos de lectura y ejecución. Siempre se conserva el orden `rwx`.
 
@@ -80,7 +80,7 @@ Por lo tanto, `777` quiere decir que todos los usuarios tienen permisos de lectu
 * `-` archivo
 * `d` directorio
 * `l` enlace simbólico
-* `d` dispositivo de bloque
+* `b` dispositivo de bloque
 * `c` dispositivo de carácter
 * `s` socket
 * `p` pipe

@@ -46,7 +46,7 @@
 
 ## Historial
 
-* `history` muestra el historia de comandos.
+* `history` muestra el historial de comandos.
 * `!!` repite el último comando.
 * `!` expansión de comandos:
 	* `!10` ejecuta el comando número *10*.
